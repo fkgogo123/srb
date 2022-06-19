@@ -1,0 +1,3 @@
+2022-06-03 17:06:54 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.sms.UtilsTest Starting UtilsTest on DESKTOP-P8CR8D2 with PID 2792 (started by zfk in D:\8_javaProjects\srb\service-sms)
+2022-06-03 17:06:54 [INFO ] main SpringApplication.java:655 com.donghua.srb.sms.UtilsTest The following profiles are active: dev
+2022-06-03 17:06:59 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.sms.UtilsTest Started UtilsTest in 5.488 seconds (JVM running for 8.294)

@@ -1,0 +1,2 @@
+2022-06-03 09:40:47 [INFO ] http-nio-8110-exec-7 DictServiceImpl.java:92 com.donghua.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2022-06-03 09:40:48 [INFO ] http-nio-8110-exec-7 DictServiceImpl.java:105 com.donghua.srb.core.service.impl.DictServiceImpl 将数据存入Redis

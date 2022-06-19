@@ -1,0 +1,31 @@
+2022-06-02 11:09:08 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.core.RedisTemplateTests Starting RedisTemplateTests on DESKTOP-P8CR8D2 with PID 3776 (started by zfk in D:\8_javaProjects\srb\service-core)
+2022-06-02 11:09:08 [INFO ] main SpringApplication.java:655 com.donghua.srb.core.RedisTemplateTests The following profiles are active: dev
+2022-06-02 11:09:23 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.core.RedisTemplateTests Started RedisTemplateTests in 16.589 seconds (JVM running for 18.93)
+2022-06-02 11:22:35 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.core.RedisTemplateTests Starting RedisTemplateTests on DESKTOP-P8CR8D2 with PID 18256 (started by zfk in D:\8_javaProjects\srb\service-core)
+2022-06-02 11:22:35 [INFO ] main SpringApplication.java:655 com.donghua.srb.core.RedisTemplateTests The following profiles are active: dev
+2022-06-02 11:22:48 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.core.RedisTemplateTests Started RedisTemplateTests in 14.047 seconds (JVM running for 16.177)
+2022-06-02 11:23:21 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.core.RedisTemplateTests Starting RedisTemplateTests on DESKTOP-P8CR8D2 with PID 8632 (started by zfk in D:\8_javaProjects\srb\service-core)
+2022-06-02 11:23:21 [INFO ] main SpringApplication.java:655 com.donghua.srb.core.RedisTemplateTests The following profiles are active: dev
+2022-06-02 11:23:33 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.core.RedisTemplateTests Started RedisTemplateTests in 13.841 seconds (JVM running for 16.293)
+2022-06-02 11:23:45 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.core.RedisTemplateTests Starting RedisTemplateTests on DESKTOP-P8CR8D2 with PID 16556 (started by zfk in D:\8_javaProjects\srb\service-core)
+2022-06-02 11:23:45 [INFO ] main SpringApplication.java:655 com.donghua.srb.core.RedisTemplateTests The following profiles are active: dev
+2022-06-02 11:23:58 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.core.RedisTemplateTests Started RedisTemplateTests in 13.803 seconds (JVM running for 15.788)
+2022-06-02 19:53:54 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.core.RedisTemplateTests Starting RedisTemplateTests on DESKTOP-P8CR8D2 with PID 10340 (started by zfk in D:\8_javaProjects\srb\service-core)
+2022-06-02 19:53:54 [INFO ] main SpringApplication.java:655 com.donghua.srb.core.RedisTemplateTests The following profiles are active: dev
+2022-06-02 19:54:07 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.core.RedisTemplateTests Started RedisTemplateTests in 14.43 seconds (JVM running for 17.36)
+2022-06-02 19:55:05 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-P8CR8D2 with PID 6328 (D:\8_javaProjects\srb\service-core\target\classes started by zfk in D:\8_javaProjects\srb)
+2022-06-02 19:55:05 [INFO ] main SpringApplication.java:655 com.donghua.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-06-02 19:55:12 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 8.438 seconds (JVM running for 12.628)
+2022-06-02 19:55:42 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:83 com.donghua.srb.core.service.impl.DictServiceImpl 从Redis中获取数据
+2022-06-02 19:56:06 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:83 com.donghua.srb.core.service.impl.DictServiceImpl 从Redis中获取数据
+2022-06-02 19:56:32 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:83 com.donghua.srb.core.service.impl.DictServiceImpl 从Redis中获取数据
+2022-06-02 19:57:34 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-P8CR8D2 with PID 11392 (D:\8_javaProjects\srb\service-core\target\classes started by zfk in D:\8_javaProjects\srb)
+2022-06-02 19:57:34 [INFO ] main SpringApplication.java:655 com.donghua.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-06-02 19:57:40 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.871 seconds (JVM running for 8.949)
+2022-06-02 19:57:59 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:92 com.donghua.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2022-06-02 19:58:00 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:105 com.donghua.srb.core.service.impl.DictServiceImpl 将数据存入Redis
+2022-06-02 19:58:12 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:85 com.donghua.srb.core.service.impl.DictServiceImpl 从Redis中获取数据
+2022-06-02 19:58:19 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:92 com.donghua.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2022-06-02 19:58:19 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:105 com.donghua.srb.core.service.impl.DictServiceImpl 将数据存入Redis
+2022-06-02 21:09:38 [INFO ] http-nio-8110-exec-5 AdminIntegralGradeController.java:38 com.donghua.srb.core.controller.admin.AdminIntegralGradeController 打印所有的积分等级信息
+2022-06-02 21:09:38 [INFO ] http-nio-8110-exec-5 AdminIntegralGradeController.java:39 com.donghua.srb.core.controller.admin.AdminIntegralGradeController /admin/core/integralGrade/list

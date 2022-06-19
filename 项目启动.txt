@@ -1,0 +1,4 @@
+1.开redis
+2.开nacos
+3.开srb_site、srb_admin
+4.开srb

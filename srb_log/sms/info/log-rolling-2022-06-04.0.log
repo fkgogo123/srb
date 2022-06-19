@@ -1,0 +1,12 @@
+2022-06-04 15:04:38 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.sms.ServiceSmsApplication Starting ServiceSmsApplication on DESKTOP-P8CR8D2 with PID 6284 (D:\8_javaProjects\srb\service-sms\target\classes started by zfk in D:\8_javaProjects\srb)
+2022-06-04 15:04:38 [INFO ] main SpringApplication.java:655 com.donghua.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-06-04 15:04:42 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 4.31 seconds (JVM running for 5.81)
+2022-06-04 15:07:05 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.sms.ServiceSmsApplication Starting ServiceSmsApplication on DESKTOP-P8CR8D2 with PID 2208 (D:\8_javaProjects\srb\service-sms\target\classes started by zfk in D:\8_javaProjects\srb)
+2022-06-04 15:07:05 [INFO ] main SpringApplication.java:655 com.donghua.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-06-04 15:07:08 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 4.072 seconds (JVM running for 5.43)
+2022-06-04 15:10:08 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.sms.ServiceSmsApplication Starting ServiceSmsApplication on DESKTOP-P8CR8D2 with PID 18724 (D:\8_javaProjects\srb\service-sms\target\classes started by zfk in D:\8_javaProjects\srb)
+2022-06-04 15:10:08 [INFO ] main SpringApplication.java:655 com.donghua.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-06-04 15:10:13 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 5.464 seconds (JVM running for 9.099)
+2022-06-04 15:30:12 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.sms.ServiceSmsApplication Starting ServiceSmsApplication on DESKTOP-P8CR8D2 with PID 9568 (D:\8_javaProjects\srb\service-sms\target\classes started by zfk in D:\8_javaProjects\srb)
+2022-06-04 15:30:12 [INFO ] main SpringApplication.java:655 com.donghua.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-06-04 15:30:16 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 5.57 seconds (JVM running for 7.673)

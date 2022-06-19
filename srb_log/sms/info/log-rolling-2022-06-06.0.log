@@ -1,0 +1,3 @@
+2022-06-06 15:59:54 [INFO ] main StartupInfoLogger.java:55 com.donghua.srb.sms.ServiceSmsApplication Starting ServiceSmsApplication on DESKTOP-P8CR8D2 with PID 3112 (D:\8_javaProjects\srb\service-sms\target\classes started by zfk in D:\8_javaProjects\srb)
+2022-06-06 15:59:54 [INFO ] main SpringApplication.java:655 com.donghua.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-06-06 15:59:58 [INFO ] main StartupInfoLogger.java:61 com.donghua.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 5.979 seconds (JVM running for 8.875)
